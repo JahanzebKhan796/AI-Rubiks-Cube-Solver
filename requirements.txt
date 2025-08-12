@@ -1,0 +1,7 @@
+python-dotenv
+google-generativeai
+pydantic
+opencv-python
+kociemba
+pygame
+pycuber
